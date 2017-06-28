@@ -3,6 +3,8 @@
 
 ## Examples
 
+---
+
 ### Debug In
 
 Keyword: `debugin`
@@ -18,7 +20,7 @@ Keyword: `debugout`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648654-260da5f6-5c27-11e7-97b9-c8013296f2bd.gif "Debug In")
 
-
+---
 
 
 ### Debug a variable
@@ -27,7 +29,7 @@ Keyword: `debugvar`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648653-260a95be-5c27-11e7-8fb7-cad1a9826dfa.gif "Debug In")
 
-
+---
 
 
 ### Docs
@@ -36,7 +38,7 @@ Keyword: `doc`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648655-260f4820-5c27-11e7-9506-89c4b0b68e66.gif "Debug In")
 
-
+---
 
 
 ### SOQL to a List
@@ -45,7 +47,7 @@ Keyword: `listsoql`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648657-26162f6e-5c27-11e7-9b39-91c337b1e915.gif "Debug In")
 
-
+---
 
 
 ### SOQL to a Map
