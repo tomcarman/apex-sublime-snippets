@@ -11,11 +11,13 @@ Keyword: `debugin`
 
 
 
+
 ### Debug Out
 
 Keyword: `debugout`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648654-260da5f6-5c27-11e7-97b9-c8013296f2bd.gif "Debug In")
+
 
 
 
@@ -27,6 +29,7 @@ Keyword: `debugvar`
 
 
 
+
 ### Docs
 
 Keyword: `doc`
@@ -35,11 +38,13 @@ Keyword: `doc`
 
 
 
+
 ### SOQL to a List
 
 Keyword: `listsoql`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648657-26162f6e-5c27-11e7-9b39-91c337b1e915.gif "Debug In")
+
 
 
 
