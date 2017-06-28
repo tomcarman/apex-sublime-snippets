@@ -9,7 +9,7 @@ Keyword: `debugin`
 
 ![alt text](https://user-images.githubusercontent.com/1554713/27648656-261069ee-5c27-11e7-9e6e-3acee4d9c2c9.gif "Debug In")
 
-
+---
 
 
 ### Debug Out
