@@ -2,7 +2,7 @@
 
 ## Usage
 
-*OSX*
+***OSX***
 1. Copy files to  ```/Users/YOURUSERNAME/Library/Application Support/Sublime Text 3/Packages/User```
 2. Open in any text editor and modify where neccessary (eg. to replace YOUR_NAME with your actual name or initials)
 
