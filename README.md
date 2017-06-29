@@ -6,6 +6,9 @@
   * **OSX** : ```/Users/YOURUSERNAME/Library/Application Support/Sublime Text 3/Packages/User```
   * **Windows** : ```C:\Users\YOURUSERNAME\AppData\Roaming\Sublime Text 3\Packages\User```
 2. Open in any text editor and modify where neccessary (eg. to replace the keyword, or YOUR_NAME placeholder with your actual name or initials)
+3. Restart Sublime Text 3 for good measure
+4. Open any file that has the Apex scope (you can see this in the bottom right corner)
+5. Type the keyword and then press TAB. Press TAB to move between each placeholder requiring input.
 
 
 
