@@ -2,8 +2,10 @@
 
 ## Usage
 
-***OSX***
-1. Copy files to  ```/Users/YOURUSERNAME/Library/Application Support/Sublime Text 3/Packages/User```
+1. Copy files to:
+  *OSX* ```/Users/YOURUSERNAME/Library/Application Support/Sublime Text 3/Packages/User```
+  *Windows* ```C:\Users\YOURUSERNAME\AppData\Roaming\Sublime Text 3\Packages\User```
+  
 2. Open in any text editor and modify where neccessary (eg. to replace YOUR_NAME with your actual name or initials)
 
 
