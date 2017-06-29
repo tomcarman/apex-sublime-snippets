@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+System.debug('***YOUR_NAME*** ***ENTER*** $TM_FILENAME.${1:methodName} | $TM_LINE_NUMBER');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>debugin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.apex</scope>
+</snippet>
